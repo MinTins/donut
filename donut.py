@@ -24,5 +24,5 @@
                 __setitem__(D,'.,-~:;=!*#$@' [ R (
                   L*8)])}or 1}or 1 if[S('\x1b[H'
                       ),{S(''.join(E))for E in
-                             n}] or 1
+                             n}] and 0
 }
